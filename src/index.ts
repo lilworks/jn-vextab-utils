@@ -1,5 +1,3 @@
-
-
 export const Greeter = (name: string) => `Hello ${name}`;
 
 export const JnSelectionElementToVextab = (xy: any) => {
