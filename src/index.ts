@@ -1,3 +1,5 @@
+
+
 export const Greeter = (name: string) => `Hello ${name}`;
 
 export const JnSelectionElementToVextab = (xy: any) => {
@@ -18,3 +20,4 @@ export const VextabSelectionToString = (vxs: any) => {
   });
   return a.join(' ');
 };
+module.exports = JnVextabUtils;
