@@ -1,6 +1,6 @@
 {
   "name": "jn-vextab-utils",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Some jolineck utilities for using vextab",
   "main": "index.js",
   "types": "lib/index.d.ts",
