@@ -1,6 +1,6 @@
 import { Greeter } from '../index';
-import { JnSelectionElementToVextab } from '../index';
-import { VextabSelectionToString } from '../index';
+/*import { JnVextabUtils } from '../index';
+
 
 test('My Greeter', () => {
   expect(Greeter('Carl')).toBe('Hello Carl');
@@ -16,3 +16,4 @@ var xy = {
 };
 
 var input = [{ x: 1, y: 3 }, { x: 2, y: 5 }];
+*/
